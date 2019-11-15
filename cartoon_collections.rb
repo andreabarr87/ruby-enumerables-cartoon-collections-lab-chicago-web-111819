@@ -22,7 +22,7 @@ end
 
 def find_the_cheese(some_array)
   cheeses = %w[gouda camembert cheddar]
-  some_array.find {cheeses.include?}
+  some_array.find {|string| cheeses.include?(string)}
 end
 
 
