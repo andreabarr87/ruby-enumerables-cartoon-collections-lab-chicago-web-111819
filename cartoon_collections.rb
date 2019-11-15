@@ -26,20 +26,6 @@ def find_the_cheese(some_array)
 end
 
 
-
-
-
-
-
-
-
-
-
-
-#def find_the_cheese(some_array)
-  #  some_array.find {|cheese, index|
- # some_array.include?(cheese[index])}
-#end
   
 
 
