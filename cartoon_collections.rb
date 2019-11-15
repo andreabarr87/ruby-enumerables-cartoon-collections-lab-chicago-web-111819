@@ -21,7 +21,7 @@ end
 
 
 def find_the_cheese(some_array)
-  
+  cheeses = %w[gouda camembert cheddar]
 end
 
 
